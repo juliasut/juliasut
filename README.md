@@ -1,4 +1,4 @@
- <img src="https://media.giphy.com/media/1iolyr2dobg73XjR7z/giphy.gif" width="100%">
+ <img src="https://media.giphy.com/media/oLzgl79VN6bbrQUSLe/giphy.gif" width="100%">
 
 ### Hi I'm Iuliia (Yu-lia)
 
