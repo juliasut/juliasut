@@ -1,4 +1,4 @@
- <img src="https://media.giphy.com/media/HknSLLEbzZCoM/giphy.gif" width="100%">
+![dusty-blue](https://github.com/juliasut/juliasut/blob/main/dusty-blue.jpg)
 
 # Hi I'm Iuliia! (Yu-lia)
 
