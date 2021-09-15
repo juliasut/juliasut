@@ -4,7 +4,8 @@
 
 ### I'm a Web Developer in Beta Testing
 
-- I’m currently having long days and tons of fun in LightHouse Labs Web Development Bootcamp
+- Currently enrolled in React Bootcamp and CS50
+- I graduated LightHouse Labs Immersive Web Development Bootcamp this September
 - How to reach me: juliasutygina @ gmail . com
 - Pronouns: she/her
 - Fun fact: a talented choreographer died in me, now I'm cracking the code
