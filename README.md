@@ -2,7 +2,7 @@
 
 # Hi I'm Iuliia! (Yu-lia)
 
-### I'm a Web Developer in Beta Testing
+### I'm a Full-Stack Web Developer
 
 - Currently enrolled in React Bootcamp and CS50
 - I graduated LightHouse Labs Immersive Web Development Bootcamp this September
