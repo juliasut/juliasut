@@ -1,4 +1,4 @@
-![dusty-blue](https://github.com/juliasut/juliasut/blob/main/dusty-blue-2.jpg)
+
 
 # Hi I'm Iuliia! (Yu-lia)
 
