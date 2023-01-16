@@ -5,7 +5,7 @@
 ### I'm a Full-Stack Web Developer
 
 - I graduated [OpenTree Mentorship Program](https://opentree.education/) and [LightHouse Labs](https://www.lighthouselabs.ca/) Immersive Web Development Bootcamp
-- Currently studying in [Masterschool](https://www.masterschool.com/&target=_blank)
+- Currently studying in [Masterschool](https://www.masterschool.com?target=_blank)
 
 
 
