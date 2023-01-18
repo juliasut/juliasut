@@ -1,6 +1,6 @@
 
 
-# Hi I'm Iuliia! (Yu-lia)
+# Hi I'm <img width="75" alt="Screen_Shot_2023-01-18_at_1 22 32_PM-removebg-preview (1)" src="https://user-images.githubusercontent.com/81769855/213288040-eed4ff33-b9b7-4d93-b867-7f431ab6be09.png"> (Yu-lia)
 
 ### I'm a Full-Stack Web Developer
 
