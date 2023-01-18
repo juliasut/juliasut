@@ -6,6 +6,7 @@
 
 - I graduated [OpenTree Mentorship Program](https://opentree.education/) and [LightHouse Labs](https://www.lighthouselabs.ca/) Immersive Web Development Bootcamp
 - Currently studying in [Masterschool](https://www.masterschool.com/)
+- Web site [here](https://juliasut.github.io/portfolio/) ✨
 
 
 
